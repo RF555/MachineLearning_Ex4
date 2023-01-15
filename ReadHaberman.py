@@ -1,5 +1,3 @@
-from enum import Enum
-
 import pandas as pd
 
 """Age of patient at time of operation (numerical)"""
